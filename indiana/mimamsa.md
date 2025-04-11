@@ -1,7 +1,7 @@
 ## Mimansa
 
-
-
+Come ogni testo sacro, i Veda hanno bisogno di interpretazione; essa è anzi più urgente, perché i Veda insegnano la pratica del sacrificio, ed una corretta pratica è indispensabile per la salvezza e il mantenimento dell'ordine cosmico. Non sorprende dunque che sia sorta in India una raffinata ermeneutica, rappresentata soprattutto dalla scuola Mimamsa. Il termine in sanscrito significa indagine, investigazione, interpretazione. La scuola che va sotto questo nome 
+Esistono due forme di _Mimamsa_: _Purva-Mimamsa_, ossia prima Mimamsa precedente, e _Uttara-Mimamsa_, seconda Mimamsa. La differenza non è cronologica, ma legata alle sezioni dei Veda: la Purva-Mimansa si occupa della prima parte dei Veda, a carattere per lo più rituale, mentre la Uttara-Mimamsa della seconda, quella metafisica.
 
 
 
